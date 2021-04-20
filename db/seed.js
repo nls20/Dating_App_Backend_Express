@@ -1,0 +1,3 @@
+use profileImage;
+
+db.dropDatabase();
