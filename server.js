@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 app.use(cors()); 
 
-app.use(bodyParser.json());
+app.use(bodyParser.json({limit:"4MB"}));
 const MongoClient = require('mongodb').MongoClient;
 const createRouter = require('./helpers/create_router.js');
 
