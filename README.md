@@ -3,7 +3,7 @@ README provided for development by Codeclan students only.
 We asume you already have MongoDB installed and set up.
 
 
-To create and start a databse
+To create and start a database:
 
 
     In a terminal window type and enter "mongo"
