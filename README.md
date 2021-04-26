@@ -1,6 +1,6 @@
 README provided for development by Codeclan students only.
 
-We asume you already have MongoDB installed and set up.
+We assume you already have MongoDB installed and set up.
 
 
 To create and start a database:
